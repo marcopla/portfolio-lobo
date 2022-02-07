@@ -7,3 +7,9 @@
   gap: 100px;
   align-items: center;
 }
+
+.introducao h1 {
+  font-size: 4.5rem;
+  line-height: 1.125;
+  margin-bottom: 30px;
+}
