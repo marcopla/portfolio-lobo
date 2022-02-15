@@ -22,3 +22,7 @@ img {
   display: block;
   color: inherit;
 }
+
+.subtitulo {
+  font-size: 8rem;
+}
