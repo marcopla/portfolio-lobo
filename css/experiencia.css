@@ -10,5 +10,19 @@
 .subtitulo {
   font-size: 8rem;
   line-height: 1;
+  text-transform: uppercase;
   word-break: break-all;
+  max-width: 4ch;
+}
+
+.experiencia .subtitulo {
+  color: #e0e0e0;
+}
+
+.experiencia-texto {
+  font-size: 1.5rem;
+  line-height: 1.33;
+  margin-bottom: 60px;
+  max-width: 40ch;
+  color: #525252;
 }
