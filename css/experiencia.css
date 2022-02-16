@@ -26,3 +26,12 @@
   max-width: 40ch;
   color: #525252;
 }
+
+.experiencia-texto strong {
+  color: #141414;
+}
+
+.empresa {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
