@@ -41,6 +41,17 @@
   position: relative;
 }
 
+.empresa::before {
+  content: '';
+  display: block;
+  width: 4px;
+  height: 20px;
+  background: linear-gradient(#b6f829, #67dd0a);
+  position: absolute;
+  top: 20px;
+  left: -4px;
+}
+
 .empresa-ano {
   position: absolute;
   top: 20px;
