@@ -71,3 +71,10 @@
   line-height: 1.4;
   color: #525252;
 }
+
+.empresa-habilidades {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-content: start;
+}
