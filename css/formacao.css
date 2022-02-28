@@ -104,3 +104,9 @@
 .idiomas h3::before {
   background: url('../img/idiomas.svg') no-repeat center center;
 }
+
+.formacao-extra li {
+  font-size: 1.125rem;
+  line-height: 1.1;
+  margin-bottom: 20px;
+}
